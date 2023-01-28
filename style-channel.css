@@ -1,0 +1,14 @@
+body {
+    background-color: #f6fff8;
+}
+
+#parfum {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 25%;
+  padding-bottom: 7rem;
+  padding-top: 1.5rem;
+  
+}
